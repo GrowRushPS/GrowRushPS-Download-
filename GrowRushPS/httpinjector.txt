@@ -1,0 +1,12 @@
+[Proxy]
+proxy_host=5.196.204.227
+proxy_port=8080
+
+[SSH]
+ssh_host=5.196.204.227
+ssh_port=22
+ssh_user=your_ssh_username
+ssh_pass=your_ssh_password
+
+[Payload]
+GET / HTTP/1.1[crlf]Host: growtopia1.com[crlf]Connection: Keep-Alive[crlf][crlf]
