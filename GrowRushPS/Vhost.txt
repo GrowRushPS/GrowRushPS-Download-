@@ -1,0 +1,4 @@
+growtopia1.com=5.196.204.227
+growtopia2.com=5.196.204.227
+www.growtopia1.com=5.196.204.227
+www.growtopia2.com=5.196.204.227
